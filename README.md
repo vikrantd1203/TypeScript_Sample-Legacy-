@@ -15,7 +15,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/vikrantd1203/TypeScript_Sample-Legacy-.git
 
 ### Install the dependencies
    ```bash
