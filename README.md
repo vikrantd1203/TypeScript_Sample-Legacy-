@@ -24,14 +24,13 @@ Make sure you have the following installed:
 
 
 
-### Testing Locally
+### Testing
 To test the project locally, you can use the following command:
    ```bash
    npm test-node src/test.ts
    ```
 
-### Testing on BrowserStack
-To test the project on XYZ, use the following command:
+To test the project on BrowserStack, use the following command:
    ```bash
    npm test-node src/bstack_script.ts
    ```
