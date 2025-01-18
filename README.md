@@ -18,14 +18,17 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/your-repo-name.git
 
 ### Install the dependencies:
-npm install
+   ```bash
+   npm install
 
 
 ### Testing Locally
 To test the project locally, you can use the following command:
-npm test-node src/test.ts
+   ```bash
+   npm test-node src/test.ts
 
 
 ### Testing on BrowserStack
 To test the project on XYZ, use the following command:
-npm test-node src/bstack_script.ts
+   ```bash
+   npm test-node src/bstack_script.ts
